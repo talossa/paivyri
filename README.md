@@ -1,2 +1,0 @@
-# paivyri
-GitHub Pages
